@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Photo-Gallery App
+
+## A Photo collection app that displays photos in a modal when clicked on
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Contact
+
+Boluwatife - [twitter](https://twitter.com/Gammatiff05 "twitter") - [LinkedIn](https://www.linkedin.com/in/boluwatife-aminutaiwo-7566b5220/ "linkedIn") - [email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnZMzZcMHqMDvHssWLRNfDGVcnDJbhmpdNnDjFXwcdQFvMWPzPHltTLwftqHjNGwqhBPjQ "gmail")
